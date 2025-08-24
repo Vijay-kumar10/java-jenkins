@@ -7,5 +7,8 @@ public class First {
         System.out.println("Today date is : "+new Date());
         System.out.println("hello");
         System.out.println("Added one more file");
+        System.out.println("This is demo of reflecting changes live.");
+        System.out.println("******************");
+        System.out.println("This is demo of reflecting changes live.");
     }
 }
