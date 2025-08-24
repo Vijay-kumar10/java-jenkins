@@ -10,5 +10,7 @@ public class First {
         System.out.println("This is demo of reflecting changes live.");
         System.out.println("******************");
         System.out.println("This is demo of reflecting changes live.");
+        Student s = new Student();
+        s.hello();
     }
 }
